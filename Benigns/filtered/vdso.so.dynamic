@@ -1,3 +1,0 @@
-execve
-rt_sigreturn
-+++ killed by SIGSEGV 
