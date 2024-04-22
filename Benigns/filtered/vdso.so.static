@@ -1,0 +1,14 @@
+
+.hash
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_d
+.note
+.dynamic
+.eh_frame_hdr
+.eh_frame
+.text
+.data
+.shstrtab

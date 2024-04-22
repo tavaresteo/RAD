@@ -1,0 +1,10 @@
+
+.text
+.rodata
+.data
+.bss
+.payload
+.comment
+.symtab
+.strtab
+.shstrtab

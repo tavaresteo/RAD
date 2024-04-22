@@ -1,0 +1,10 @@
+execve
+brk
+faccessat
+mmap
+set_tid_address
+set_robust_list
+mprotect
+mprotect
+writev
+exit_group
