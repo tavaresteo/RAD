@@ -1,0 +1,4 @@
+#kernel
+Ip6InReceives                   5                  0.0
+Ip6InDiscards                   5                  0.0
+Ip6InOctets                     356                0.0
